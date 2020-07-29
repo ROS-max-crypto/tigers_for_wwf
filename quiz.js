@@ -1,6 +1,6 @@
 const myQuiz = [
     {
-      'q': "What's your nameWhat state is known as the tiger state of India??",
+      'q': "What state is known as the tiger state of India?",
       'options': [
         'Assam',
         'Bengal',
