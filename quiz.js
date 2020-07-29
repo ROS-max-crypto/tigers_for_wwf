@@ -4,8 +4,7 @@ const myQuiz = [
       'options': [
         'Assam',
         'Bengal',
-        'Madhya Pradesh',
-        ''
+        'Madhya Pradesh'
       ],
       'correctIndex': 2,
       'correctResponse': "That's Right!",
