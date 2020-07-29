@@ -43,3 +43,23 @@ h4.numbers {
     display: block;
     text-align: center;
 }
+
+body {
+    background-image: url('/tiger.png');
+}
+
+.container {
+    background: rgba(255,255,255,0.9);
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+
+}
