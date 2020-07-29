@@ -1,0 +1,45 @@
+h1.heading {
+    color: turquoise;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+ul.species {
+    color: firebrick;
+}
+
+h4.facts {
+    color: orangered;
+}
+
+h4.diet {
+    color: rgb(100, 178, 241);
+}
+
+h4.habitat {
+    color: deeppink;
+}
+
+h4.pastime {
+    color: green;
+}
+
+h4.numbers {
+    color: magenta;
+}
+
+.button {
+    background: orange;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.WWF {
+    align-items: center;
+    display: block;
+    text-align: center;
+}
