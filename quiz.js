@@ -53,7 +53,7 @@ const myQuiz = [
       ],
       'correctIndex': 2,
       'correctResponse': "Total Winner",
-      'incorrectResponse': 'Oops, you lost, try again'
+      'incorrectResponse': 'Try the quiz again'
     }
   ]
 
