@@ -19,7 +19,7 @@ const myQuiz = [
       ],
       'correctIndex': 1,
       'correctResponse': "Champion",
-      'incorrectResponse': 'What were you tinking?'
+      'incorrectResponse': 'try harder'
     },
     {
       'q': 'Which tigers are Critically Endangered?',
@@ -42,7 +42,7 @@ const myQuiz = [
       ],
       'correctIndex': 0,
       'correctResponse': "Cool",
-      'incorrectResponse': 'You are Trash at this'
+      'incorrectResponse': 'Go again'
     },
     {
       'q': 'What length do tigers grow till?',
@@ -53,7 +53,7 @@ const myQuiz = [
       ],
       'correctIndex': 2,
       'correctResponse': "Total Winner",
-      'incorrectResponse': 'Total Loser'
+      'incorrectResponse': 'Oops, you lost, try again'
     }
   ]
 
